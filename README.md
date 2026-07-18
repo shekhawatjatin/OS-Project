@@ -137,12 +137,7 @@ Quantum: 2
 
 ---
 
-## 👨‍💻 Author
 
-Jatin Singh Shekhawat
-Anish Agarwal
-
----
 
 ## 📚 Conclusion
 
